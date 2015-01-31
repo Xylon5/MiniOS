@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniOS", "MiniOS\MiniOS.csproj", "{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B023FFCA-1A27-451F-90D2-AC4CD5E76CC9}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.htm = HTMLPage1.htm
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs08
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MiniOS\\MiniOS.csproj
+		SccProjectName1 = MiniOS
+		SccLocalPath1 = MiniOS
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCDEE3B-B847-4CDA-B883-9C3F393A6762}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDAD0D2-D673-4A31-B3AF-CB56E4A147F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
